@@ -5,8 +5,8 @@
     
     <entry>
       <title>搭建心得</title>
-      <link href="/Shuelv/Shuelv.github.io.git/2024/03/16/2024-3-16-%E6%90%AD%E5%BB%BA%E5%BF%83%E5%BE%97/"/>
-      <url>/Shuelv/Shuelv.github.io.git/2024/03/16/2024-3-16-%E6%90%AD%E5%BB%BA%E5%BF%83%E5%BE%97/</url>
+      <link href="/2024/03/16/2024-3-16-%E6%90%AD%E5%BB%BA%E5%BF%83%E5%BE%97/"/>
+      <url>/2024/03/16/2024-3-16-%E6%90%AD%E5%BB%BA%E5%BF%83%E5%BE%97/</url>
       
         <content type="html"><![CDATA[<h2 id="搭建心得"><a href="#搭建心得" class="headerlink" title="搭建心得"></a>搭建心得</h2>]]></content>
       
@@ -21,30 +21,8 @@
     
     <entry>
       <title>关于</title>
-      <link href="/Shuelv/Shuelv.github.io.git/about/index.html"/>
-      <url>/Shuelv/Shuelv.github.io.git/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>电影</title>
-      <link href="/Shuelv/Shuelv.github.io.git/movies/index.html"/>
-      <url>/Shuelv/Shuelv.github.io.git/movies/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>tags</title>
-      <link href="/Shuelv/Shuelv.github.io.git/tags/index.html"/>
-      <url>/Shuelv/Shuelv.github.io.git/tags/index.html</url>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -54,8 +32,30 @@
     
     <entry>
       <title>音乐</title>
-      <link href="/Shuelv/Shuelv.github.io.git/music/index.html"/>
-      <url>/Shuelv/Shuelv.github.io.git/music/index.html</url>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
