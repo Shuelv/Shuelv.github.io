@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2024/03/20/2024-3-16-C-%E7%BB%83%E4%B9%A0/"/>
-      <url>/2024/03/20/2024-3-16-C-%E7%BB%83%E4%B9%A0/</url>
+      <title>C++练习</title>
+      <link href="/2024/03/16/2024-3-16-C-%E7%BB%83%E4%B9%A0/"/>
+      <url>/2024/03/16/2024-3-16-C-%E7%BB%83%E4%B9%A0/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="C-练习"><a href="#C-练习" class="headerlink" title="C++练习"></a>C++练习</h1><p>不定时更新</p>]]></content>
       
       
       
@@ -17,7 +17,7 @@
     
     
     <entry>
-      <title>搭建心得</title>
+      <title>C语言练习</title>
       <link href="/2024/03/16/2024-3-16-C%E8%AF%AD%E8%A8%80%E7%BB%83%E4%B9%A0/"/>
       <url>/2024/03/16/2024-3-16-C%E8%AF%AD%E8%A8%80%E7%BB%83%E4%B9%A0/</url>
       
@@ -57,9 +57,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -68,9 +68,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -90,9 +90,9 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
