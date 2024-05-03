@@ -102,13 +102,7 @@
     color: #ffffff;
   }
 
-  svg.menu_icon {
-    width: 1.28em;
-    height: 1.28em;
-    vertical-align: -0.15em;
-    fill: currentColor;
-    overflow: hidden;
-  }
+  
   svg.social_icon {
     width: 1.20em;
     height: 1.20em;
@@ -134,4 +128,31 @@
     max-width: none !important;
     padding: 0 5px 0 5px;
   }
+}
+
+/* 翻页按钮居中 */
+#pagination {
+  width: 100%;
+  margin: auto;
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  /* 这里可以自定义图标大小 */
+  font-size: 3em;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 小冰分类分类磁铁黑夜模式适配 */
+/* 一般状态 */
+[data-theme="dark"] .magnet_link_context {
+  background: #1e1e1e;
+  color: antiquewhite;
+}
+/* 鼠标悬浮状态 */
+[data-theme="dark"] .magnet_link_context:hover {
+  background: #3ecdf1;
+  color: #f2f2f2;
 }
